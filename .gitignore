@@ -37,6 +37,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-package-loc.json
 
-/e2e
+
+package-lock.json
+e2e
